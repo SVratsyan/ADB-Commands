@@ -1,4 +1,3 @@
-# ADB-Commands
 adb help // List all comands
 
 == Adb Server
